@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1575804182 source:c:\users\kztyllo\desktop\boletin2\main.c
+	"cabecera.h"
+
+1575803867 c:\users\kztyllo\desktop\boletin2\cabecera.h
+	"colores.h"
+	"leer.h"
+	"estructuras.h"
+	"backtracking.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1572184438 c:\users\kztyllo\desktop\boletin2\colores.h
+
+1575807783 c:\users\kztyllo\desktop\boletin2\backtracking.h
+	<stdbool.h>
+	"cabecera.h"
+
+1575762627 source:c:\users\kztyllo\desktop\boletin2\backtracking.c
+	"backtracking.h"
+
+1575807810 source:c:\users\kztyllo\desktop\boletin2\backtracking-ej2.c
+	"backtracking.h"
+
+1575303380 c:\users\kztyllo\desktop\boletin2\leer.h
+	"estructuras.h"
+
+1575800052 c:\users\kztyllo\desktop\boletin2\estructuras.h
+
+1575808410 source:c:\users\kztyllo\desktop\boletin2\leer.c
+	"cabecera.h"
+
+1575807810 source:c:\users\kztyllo\desktop\codigo\backtracking-ej2.c
+	"backtracking.h"
+
+1575807783 c:\users\kztyllo\desktop\codigo\backtracking.h
+	<stdbool.h>
+	"cabecera.h"
+
+1575803867 c:\users\kztyllo\desktop\codigo\cabecera.h
+	"colores.h"
+	"leer.h"
+	"estructuras.h"
+	"backtracking.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1572184438 c:\users\kztyllo\desktop\codigo\colores.h
+
+1575303380 c:\users\kztyllo\desktop\codigo\leer.h
+	"estructuras.h"
+
+1575800052 c:\users\kztyllo\desktop\codigo\estructuras.h
+
+1575762627 source:c:\users\kztyllo\desktop\codigo\backtracking.c
+	"backtracking.h"
+
+1575808410 source:c:\users\kztyllo\desktop\codigo\leer.c
+	"cabecera.h"
+
+1575804182 source:c:\users\kztyllo\desktop\codigo\main.c
+	"cabecera.h"
+
